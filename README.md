@@ -1,3 +1,5 @@
+
+![logo](https://github.com/Urvashi1407/Urvashi1407/blob/main/Computer%20Engineer.png)
 <h1 align="center">Hi 👋, I'm Urvashi Baraiya</h1>
 <h3 align="center">A passionate frontend developer from India. I love building interactive and responsive web applications using modern frontend technologies.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
